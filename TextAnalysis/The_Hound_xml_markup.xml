@@ -1,0 +1,122 @@
+<book title="The Hound of the Baskervilles">
+  <chapter number="1" title="Mr. Sherlock Holmes">
+    <paragraph>
+      <person name="Sherlock Holmes">Mr. Sherlock Holmes</person> was at the breakfast table.
+      I picked up the <object name="stick">stick</object> our visitor left. It had
+      <quote>“To <person name="James Mortimer">James Mortimer</person>, M.R.C.S., from C.C.H., 1884”</quote> on it.
+    </paragraph>
+
+    <dialogue speaker="Holmes">
+      “Watson, what do you make of it?”
+    </dialogue>
+
+    <dialogue speaker="Watson">
+      “How did you know what I was doing?”
+    </dialogue>
+
+    <dialogue speaker="Holmes">
+      “I have a coffee-pot in front of me,” said
+      <person name="Sherlock Holmes">Holmes</person>. “What do you make of the stick?”
+    </dialogue>
+
+    <paragraph>
+      “I think <person name="Dr. Mortimer">Dr. Mortimer</person> is an elderly doctor,” said I.
+    </paragraph>
+
+    <dialogue speaker="Holmes">
+      “Good!” said <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <dialogue speaker="Watson">
+      “The stick is worn, so he walks a lot.”
+    </dialogue>
+
+    <dialogue speaker="Holmes">
+      “Sound!” said <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <paragraph>
+      A tall man entered. “I’d not lose that stick,” said he.
+    </paragraph>
+
+    <dialogue speaker="Holmes">
+      “A presentation?” said <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <dialogue speaker="Mortimer">
+      “Yes, from Charing Cross for my marriage.”
+    </dialogue>
+
+    <dialogue speaker="Holmes">
+      “That’s bad!” said <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <paragraph>
+      “I came, <person name="Holmes">Mr. Holmes</person>, for a serious problem,” said
+      <person name="Dr. Mortimer">Dr. Mortimer</person>.
+    </paragraph>
+  </chapter>
+
+  <chapter number="2" title="The Curse of the Baskervilles">
+    <paragraph>
+      “I have a <object name="manuscript">manuscript</object>,” said <person name="Dr. James Mortimer">Dr. James Mortimer</person>.
+    </paragraph>
+
+    <dialogue speaker="Holmes">
+      “I saw it,” said <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <paragraph>
+      <person name="Dr. Mortimer">Dr. Mortimer</person> produced the document, “It’s 1742, from
+      <person name="Sir Charles Baskerville">Sir Charles Baskerville</person>, who died.”
+    </paragraph>
+
+    <dialogue speaker="Holmes">
+      “It’s about something modern?” asked <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <quote>
+      “Of the origin of the <concept definition="Legend of the Hound">Hound of the Baskervilles</concept>,
+      I, from Hugo Baskerville, write this. Hugo was wild, stole a girl, she escaped.
+      He chased her with hounds across the moor. A shepherd saw Hugo with a hound of hell.
+      They found Hugo dead with a huge beast over him. The hound has plagued us since.”
+    </quote>
+
+    <dialogue speaker="Holmes">
+      “Well?” said <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <dialogue speaker="Mortimer">
+      “Here’s a newspaper about <person name="Sir Charles Baskerville">Sir Charles Baskerville</person>’s death,” said
+      <person name="Dr. Mortimer">Dr. Mortimer</person>.
+    </dialogue>
+
+    <paragraph>
+      <quote>
+        “<person name="Sir Charles Baskerville">Sir Charles</person> died on the moor. His footprints changed,
+        like on his toes. No violence, just heart trouble.”
+      </quote>
+    </paragraph>
+
+    <dialogue speaker="Holmes">
+      “Public facts?” asked <person name="Holmes">Holmes</person>.
+    </dialogue>
+
+    <dialogue speaker="Mortimer">
+      “I kept this from the coroner,” said <person name="Dr. Mortimer">Dr. Mortimer</person>.
+    </dialogue>
+
+    <dialogue speaker="Mortimer">
+      “I saw his body and footprints.”
+    </dialogue>
+
+    <dialogue speaker="Holmes">
+      “Footprints?”
+    </dialogue>
+
+    <dialogue speaker="Mortimer">
+      “Footprints of a gigantic hound!” said
+      <person name="Dr. Mortimer">Dr. Mortimer</person> to <person name="Mr. Holmes">Mr. Holmes</person>.
+    </dialogue>
+  </chapter>
+</book>
